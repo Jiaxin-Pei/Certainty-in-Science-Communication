@@ -12,6 +12,7 @@ If `pip` is installed, certainty-estimator could be installed directly via [pip]
 ```
 pip3 install certainty-estimator
 ```
+Please check this [Github repo](https://github.com/Jiaxin-Pei/certainty-estimator) for code and examples.
 
 ### Pre-trained model
 We use Hugging Face to host both the [sentence-level](https://huggingface.co/pedropei/sentence-level-certainty) and [aspect-level](https://huggingface.co/pedropei/aspect-level-certainty) prediction models.
