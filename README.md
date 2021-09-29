@@ -6,6 +6,10 @@ Official Github Repo for EMNLP 2021 paper [Measuring Sentence-Level and Aspect-L
 ### Annotated scientific findings with sentence-level and aspect-level certainty: 
 `data/annotated_data` 
 
+### The URLs of science news and research papers used in our analysis
+`data/urls`
+Coming soon
+
 ## Code
 ### Python pacakge for certainty prediction
 If `pip` is installed, certainty-estimator could be installed directly via [pip](https://pypi.org/project/certainty-estimator/):
