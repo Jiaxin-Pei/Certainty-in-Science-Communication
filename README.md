@@ -8,7 +8,7 @@ Official Github Repo for EMNLP 2021 paper [Measuring Sentence-Level and Aspect-L
 
 ### The URLs of science news and research papers used in our analysis
 `data/urls`
-Containing 128942 news mentions of 57807 papers. We release URLs for news and DOIs for papers.
+contains 128942 news mentions of 57807 papers. We release URLs for news and DOIs for papers.
 
 ## Code
 ### Python pacakge for certainty prediction
