@@ -23,8 +23,9 @@ We use Hugging Face to host both the [sentence-level](https://huggingface.co/ped
 
 ### Code to train the model
 
-Forthcoming
-
+If you only need to use the certainty prediction model, please checkout our [python package](https://pypi.org/project/certainty-estimator/).
+We use [Hugging Face Transformers](https://huggingface.co/transformers/model_doc/bert.html#bertforsequenceclassification) to train our models. 
+Please email Jiaxin Pei (pedropei@umich.edu) if you need our code to train the certainty prediction models.
 
 ## Contact
 Jiaxin Pei (pedropei@umich.edu)
